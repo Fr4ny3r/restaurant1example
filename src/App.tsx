@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import { food } from './products.d.ts'
+import { food } from './products.ts'
 
 type Food = {
   name: string
