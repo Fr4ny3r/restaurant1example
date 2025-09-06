@@ -27,6 +27,6 @@ export const food : Food[] = [
 	{id : 22, name : 'Nuggets de Pollo', desc : '...', src : 'src/assets/image17.webp'},
 	{id : 42, name : 'Salsa Hoisin con Cacahuate', desc : '...', src : 'src/assets/image18.webp'},
 	{id : 62, name : 'Clasica Sopa de Albóndigas', desc : '...', src : 'src/assets/image19.webp'},
-	{id : 86, name : 'Ensalada de Verduras Marinadas', desc : '...', src : '/assets/image20.webp'}
+	{id : 86, name : 'Ensalada de Verduras Marinadas', desc : '...', src : 'src/assets/image20.webp'}
 
 ]
