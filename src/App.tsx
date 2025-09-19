@@ -84,16 +84,16 @@ function MapItem({ fo }: { fo: Food }) {
       <section id="sample" className="menu-slider">
         <div className="slider" aria-label="Galería de platos, desplaza continuo">
           <div className="slider__track">
-            <div className="slide"><img src="https://raw.githubusercontent.com/Fr4ny3r/restaurant1example/refs/heads/master/src/image1.webp" alt="Rosca Angelical"/></div>
-            <div className="slide"><img src="https://raw.githubusercontent.com/Fr4ny3r/restaurant1example/refs/heads/master/src/image2.webp" alt="Trucha con Manzanas y Avellanas Tostadas"/></div>
-            <div className="slide"><img src="https://raw.githubusercontent.com/Fr4ny3r/restaurant1example/refs/heads/master/src/image3.webp" alt="Tofu y Verduras Sofritos"/></div>
-            <div className="slide"><img src="https://raw.githubusercontent.com/Fr4ny3r/restaurant1example/refs/heads/master/src/image4.webp" alt="Pollo al Ron"/></div>
-            <div className="slide"><img src="https://raw.githubusercontent.com/Fr4ny3r/restaurant1example/refs/heads/master/src/image5.webp" alt="Pierogi de Papa"/></div>
-            <div className="slide"><img src="https://raw.githubusercontent.com/Fr4ny3r/restaurant1example/refs/heads/master/src/image1.webp" alt="" aria-hidden="true"/></div>
-            <div className="slide"><img src="https://raw.githubusercontent.com/Fr4ny3r/restaurant1example/refs/heads/master/src/image2.webp" alt="" aria-hidden="true"/></div>
-            <div className="slide"><img src="https://raw.githubusercontent.com/Fr4ny3r/restaurant1example/refs/heads/master/src/image3.webp" alt="" aria-hidden="true"/></div>
-            <div className="slide"><img src="https://raw.githubusercontent.com/Fr4ny3r/restaurant1example/refs/heads/master/src/image4.webp" alt="" aria-hidden="true"/></div>
-            <div className="slide"><img src="https://raw.githubusercontent.com/Fr4ny3r/restaurant1example/refs/heads/master/src/image5.webp" alt="" aria-hidden="true"/></div>
+            <div className="slide"><img src="/public/images/image1.webp" alt="Rosca Angelical"/></div>
+            <div className="slide"><img src="/public/images/image2.webp" alt="Trucha con Manzanas y Avellanas Tostadas"/></div>
+            <div className="slide"><img src="/public/images/image3.webp" alt="Tofu y Verduras Sofritos"/></div>
+            <div className="slide"><img src="/public/images/image4.webp" alt="Pollo al Ron"/></div>
+            <div className="slide"><img src="/public/images/image5.webp" alt="Pierogi de Papa"/></div>
+            <div className="slide"><img src="/public/images/image1.webp" alt="" aria-hidden="true"/></div>
+            <div className="slide"><img src="/public/images/image2.webp" alt="" aria-hidden="true"/></div>
+            <div className="slide"><img src="/public/images/image3.webp" alt="" aria-hidden="true"/></div>
+            <div className="slide"><img src="/public/images/image4.webp" alt="" aria-hidden="true"/></div>
+            <div className="slide"><img src="/public/images/image5.webp" alt="" aria-hidden="true"/></div>
           </div>
         </div>
       </section>
